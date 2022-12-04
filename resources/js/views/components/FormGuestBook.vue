@@ -39,14 +39,14 @@
             </fieldset>
 
             <div class="tw-h-4"></div>
-            <button class="tw-bg-brown-lighter tw-text-white tw-text-sm tw-w-full tw-p-2 tw-rounded-lg hover:tw-shadow-md" 
+            <button class="tw-bg-brown-lighter tw-text-white tw-text-sm tw-w-full tw-p-2 tw-rounded-lg hover:tw-shadow-md"
                 :class="{ 'tw-opacity-50 tw-cursor-not-allowed' : isPressed }"
                 uk-toggle="target: #buku; animation:  uk-animation-slide-left, uk-animation-slide-left uk-animation-reverse;"
                 aria-expanded="true">Kirim Ucapan</button>
             <button class="tw-bg-gray-100 tw-text-black tw-text-sm tw-w-full tw-p-2 tw-mt-3 tw-rounded-lg" type="button"
                 uk-toggle="target: #buku; animation:  uk-animation-slide-left, uk-animation-slide-left uk-animation-reverse;"
                 aria-expanded="true">Batal</button>
-                
+
         </form>
     </div>
   </div>
