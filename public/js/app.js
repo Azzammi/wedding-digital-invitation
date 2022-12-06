@@ -2938,7 +2938,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.m-name[data-v-4fc729d8] {\r\n    font-family: Greenlight Script;\n}\n.pl[data-v-4fc729d8] {\r\n    width: 200px;\r\n    height: 200px;\r\n    padding: 1rem;\r\n    background-size: contain;\r\n    background-position: center;\r\n    background-repeat: no-repeat;\r\n    mask-image: url('/mywedding/public/assets/images/mask.png');\r\n    -webkit-mask-image:  url('/mywedding/public/assets/images/mask.png');\r\n    mask-size: 200px;\r\n    -webkit-mask-size: 200px;\r\n    mask-repeat: no-repeat;\r\n    -webkit-mask-repeat: no-repeat;\r\n    mask-position: center;\r\n    -webkit-mask-position: center;\r\n    background-image: url('/mywedding/public/assets/images/cpp-test.jpg');\n}\n.pw[data-v-4fc729d8] {\r\n    width: 200px;\r\n    height: 200px;\r\n    padding: 1rem;\r\n    background-size: contain;\r\n    background-position: center;\r\n    background-repeat: no-repeat;\r\n    mask-image: url('/mywedding/public/assets/images/mask.png');\r\n    -webkit-mask-image:  url('/mywedding/public/assets/images/mask.png');\r\n    mask-size: 200px;\r\n    -webkit-mask-size: 200px;\r\n    mask-repeat: no-repeat;\r\n    -webkit-mask-repeat: no-repeat;\r\n    mask-position: center;\r\n    -webkit-mask-position: center;\r\n    background-image: url('/mywedding/public/assets/images/cpw-test.jpg');\n}\n.divider[data-v-4fc729d8] {\r\n    margin: 0 auto;\r\n    width: 35%;\r\n    margin-bottom: 20px;\r\n    margin-top: 10px;\r\n    border: 0;\r\n    height: 1px;\r\n    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(206, 180, 108, 0.75), rgba(255, 255, 255, 0));\n}\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.m-name[data-v-4fc729d8] {\n    font-family: Greenlight Script;\n}\n.pl[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/cpp-test.jpg');\n}\n.pw[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/cpw-test.jpg');\n}\n.divider[data-v-4fc729d8] {\n    margin: 0 auto;\n    width: 35%;\n    margin-bottom: 20px;\n    margin-top: 10px;\n    border: 0;\n    height: 1px;\n    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(206, 180, 108, 0.75), rgba(255, 255, 255, 0));\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -5527,7 +5527,7 @@ var render = function () {
         ),
         _vm._v(" "),
         _c("p", { staticClass: "tw-text-center tw-mt-2 tw-mb-8 tw-text-md" }, [
-          _vm._v("Minggu, 07 November 2021"),
+          _vm._v("Minggu, 12 Februari 2023"),
         ]),
         _vm._v(" "),
         _vm._m(0),
@@ -5673,7 +5673,7 @@ var staticRenderFns = [
           "uk-grid-small uk-flex-center uk-child-width-auto yn-color2 yn-anim uk-grid uk-countdown uk-scrollspy-inview",
         attrs: {
           "uk-grid": "",
-          "uk-countdown": "date: 2021-11-07T11:00:00+07:00",
+          "uk-countdown": "date: 2023-02-12T11:00:00+07:00",
         },
       },
       [
@@ -5983,7 +5983,7 @@ var staticRenderFns = [
         {
           staticClass: "tw-bg-cover tw-bg-center",
           staticStyle: {
-            "background-image": "url('assets/images/gallery/cover.jpg')",
+            "background-image": "url('assets/images/gallery/cover-main.jpg')",
           },
         },
         [
@@ -6008,7 +6008,7 @@ var staticRenderFns = [
                     staticClass:
                       "tw-text-4xl lg:tw-text-5xl tw-text-center tw-font-light uk-scrollspy-inview",
                   },
-                  [_vm._v("Khansa & Salman")]
+                  [_vm._v("Sulis & Luthfi")]
                 ),
               ]),
               _vm._v(" "),
@@ -6019,7 +6019,7 @@ var staticRenderFns = [
                     "tw-text-center tw-font-light tw-text-xs lg:tw-text-lg lg:tw-font-normal uk-scrollspy-inview",
                   staticStyle: { color: "#bdaa8b", "letter-spacing": "3px" },
                 },
-                [_vm._v("07.11.2021")]
+                [_vm._v("12.02.2023")]
               ),
             ]),
           ]),
@@ -6598,7 +6598,7 @@ var staticRenderFns = [
                         staticClass:
                           "tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl",
                       },
-                      [_vm._v("Falah Fadlillah, S.Ds.")]
+                      [_vm._v("Muhammad Luthfi Azzammi")]
                     ),
                     _vm._v(" "),
                     _c(
@@ -6609,11 +6609,11 @@ var staticRenderFns = [
                       },
                       [
                         _vm._v(
-                          "\n                            Putra dari Bpk Candra Utama, S.H. "
+                          "\n                            Putra dari Bpk Muhamad Safri "
                         ),
                         _c("br"),
                         _vm._v(
-                          "& Ibu Dra. Letfi Latifah\n                        "
+                          "& Ibu Peni Wulandari, S.Pd.\n                        "
                         ),
                       ]
                     ),
@@ -6628,7 +6628,7 @@ var staticRenderFns = [
                         staticClass:
                           "tw-py-3 m-name tw-text-1xl sm:tw-text-lg md:tw-text-1xl lg:tw-text-2xl",
                       },
-                      [_vm._v("Lita Luthfiyyani, S.H.")]
+                      [_vm._v("Sulistiyawati Nur")]
                     ),
                     _vm._v(" "),
                     _c(
@@ -6639,10 +6639,10 @@ var staticRenderFns = [
                       },
                       [
                         _vm._v(
-                          "\n                            Putri dari Bpk Adjat Sudradjat, S.Hut. "
+                          "\n                            Putri dari Bpk Nuryatin (Alm.) "
                         ),
                         _c("br"),
-                        _vm._v("& Ibu Iin Irnayati\n                        "),
+                        _vm._v("& Ibu Sri Lasyami\n                        "),
                       ]
                     ),
                   ]),
