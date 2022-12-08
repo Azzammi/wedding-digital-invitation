@@ -62,7 +62,7 @@
                                     <p class="tw-text-brown-lighter tw-font-normal tw-text-1xl sm:tw-text-2xl lg:tw-text-3xl"
                                         style="font-family: Greenlight Script;">Resepsi</p>
                                     <p class="tw-text-center tw-mt-2 md:tw-mt-4 tw-text-md sm:tw-text-base md:tw-text-base"
-                                        style="font-size: 14px;">Pukul 10.45 - 14.00 WIB</p>
+                                        style="font-size: 14px;">Pukul 10.45 - 13.00 WIB</p>
                                 </div>
                             </div>
 
@@ -70,14 +70,14 @@
                                 <img class="tw-mx-auto" src="assets/images/pemisah.png" alt="divider">
                             </div>
 
-                            <p class="tw-text-1xl tw-text-center md:tw-text-2xl"> Villa Lagenta </p>
+                            <p class="tw-text-1xl tw-text-center md:tw-text-2xl"> Aula Masjid Al-Ghufron </p>
                             <p style="font-size:14px; text-align:center; margin: 8px 0 0px 0;">
-                                Jl. Kol. Masturi No. 8, Lembang, Jawa Barat 40391 </p>
+                                Jl. Margahayu Jaya Blk. C No.77, RT.006/RW.020, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113 </p>
 
                             <p style="font-size:14px; text-align:center; margin: 8px 0 0px 0;">
                             </p>
 
-                            <a href="https://goo.gl/maps/GrcAzNeiZMVEhWzcA"
+                            <a href="https://goo.gl/maps/NCNeiXV4WujZi966A"
                                 class="uk-button uk-button-default uk-button-small btn-white"
                                 style="margin-top:16px; padding: 4px 16px; border-radius: 20px;">Lihat Lokasi Via Google Map
                                 <span uk-icon="icon: arrow-right" class="uk-icon"><svg width="20" height="20"

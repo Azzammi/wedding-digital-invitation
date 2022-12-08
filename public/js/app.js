@@ -2938,7 +2938,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.m-name[data-v-4fc729d8] {\n    font-family: Greenlight Script;\n}\n.pl[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/cpp-test.jpg');\n}\n.pw[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    background-image: url('/assets/images/cpw-test.jpg');\n}\n.divider[data-v-4fc729d8] {\n    margin: 0 auto;\n    width: 35%;\n    margin-bottom: 20px;\n    margin-top: 10px;\n    border: 0;\n    height: 1px;\n    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(206, 180, 108, 0.75), rgba(255, 255, 255, 0));\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.m-name[data-v-4fc729d8] {\n    font-family: Greenlight Script;\n}\n.pl[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    /* background-image: url('/assets/images/cpp-test.jpg'); */\n}\n.pw[data-v-4fc729d8] {\n    width: 200px;\n    height: 200px;\n    padding: 1rem;\n    background-size: contain;\n    background-position: center;\n    background-repeat: no-repeat;\n    mask-image: url('/assets/images/mask.png');\n    -webkit-mask-image:  url('/assets/images/mask.png');\n    mask-size: 200px;\n    -webkit-mask-size: 200px;\n    mask-repeat: no-repeat;\n    -webkit-mask-repeat: no-repeat;\n    mask-position: center;\n    -webkit-mask-position: center;\n    /* background-image: url('/assets/images/cpw-test.jpg'); */\n}\n.divider[data-v-4fc729d8] {\n    margin: 0 auto;\n    width: 35%;\n    margin-bottom: 20px;\n    margin-top: 10px;\n    border: 0;\n    height: 1px;\n    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(206, 180, 108, 0.75), rgba(255, 255, 255, 0));\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -5559,7 +5559,7 @@ var render = function () {
                     {
                       staticClass: "tw-text-1xl tw-text-center md:tw-text-2xl",
                     },
-                    [_vm._v(" Villa Lagenta ")]
+                    [_vm._v(" Aula Masjid Al-Ghufron ")]
                   ),
                   _vm._v(" "),
                   _c(
@@ -5573,7 +5573,7 @@ var render = function () {
                     },
                     [
                       _vm._v(
-                        "\n                            Jl. Kol. Masturi No. 8, Lembang, Jawa Barat 40391 "
+                        "\n                            Jl. Margahayu Jaya Blk. C No.77, RT.006/RW.020, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113 "
                       ),
                     ]
                   ),
@@ -5596,7 +5596,7 @@ var render = function () {
                         padding: "4px 16px",
                         "border-radius": "20px",
                       },
-                      attrs: { href: "https://goo.gl/maps/GrcAzNeiZMVEhWzcA" },
+                      attrs: { href: "https://goo.gl/maps/NCNeiXV4WujZi966A" },
                     },
                     [
                       _vm._v(
@@ -5805,7 +5805,7 @@ var staticRenderFns = [
               "tw-text-center tw-mt-2 md:tw-mt-4 tw-text-md sm:tw-text-base md:tw-text-base",
             staticStyle: { "font-size": "14px" },
           },
-          [_vm._v("Pukul 10.45 - 14.00 WIB")]
+          [_vm._v("Pukul 10.45 - 13.00 WIB")]
         ),
       ]),
     ])
